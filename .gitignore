@@ -30,8 +30,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Node / tooling junk (if any)
+# Node / tooling junk
 node_modules/
 
-# kubeconfig (if generated locally)
+# kubeconfig
 kubeconfig
