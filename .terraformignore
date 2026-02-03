@@ -1,0 +1,17 @@
+# Git
+.git/
+.gitignore
+
+# Docs
+docs/
+
+# CI/CD
+ci-cd/
+
+# Local files
+*.log
+*.md
+
+# OS junk
+.DS_Store
+Thumbs.db

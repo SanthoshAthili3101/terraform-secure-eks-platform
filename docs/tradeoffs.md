@@ -1,0 +1,2 @@
+- Managed nodes over self-managed
+- Separate clusters for blast radius isolation
